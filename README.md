@@ -42,6 +42,11 @@ technical_background:
    "Designing RESTful Web APIs",
    "Become a RESTful API Developer",
    "The Complete 2022 Web Development Bootcamp",
-   "To see my other Certifications click This <a href="https://www.linkedin.com/in/mahamad-sardar/details/certifications/">Link</a>
+   "Check my linkedin profile in order to see the rest of the certifications that I have received"
  ]
+ 
+currently_learning: ["Asp.net core, Software development"]
+2022 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Swimming", "Traveling", "History", "Learning different languages"]
+
 ```
