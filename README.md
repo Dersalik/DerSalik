@@ -57,5 +57,5 @@ hobbies: ["Gaming", "Swimming", "Traveling", "History", "Learning different lang
 ```
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dersalik&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dersalik&layout=compact&theme=synthwave"></img>
 </a>
