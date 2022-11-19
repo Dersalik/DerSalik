@@ -3,4 +3,6 @@
 <a href="https://www.linkedin.com/in/mahamad-sardar-a306981b7/" rel="nofollow">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" style="max-width: 100%;">
 </a>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Dersalik/DerSalik/main/giphy.webp"><img src="https://raw.githubusercontent.com/Dersalik/DerSalik/main/giphy.webp" data-canonical-src="https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" style="max-width: 100%;"></a>
+</p>
