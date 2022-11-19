@@ -16,4 +16,16 @@
 
 ```yaml
 Name: Mahamad Sardar
+Location:Erbil, Kurdistan Region of Iraq
+
+fields_of_interests:
+  [
+    "Software Development,
+    "Web Development",
+    "Backend Development",
+    "Cloud Computing",
+    "Programming",
+  ]
+
+
 ```
