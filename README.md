@@ -51,4 +51,11 @@ currently_learning: ["Asp.net core, Software development"]
 2022 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Swimming", "Traveling", "History", "Learning different languages"]
 
+
+
+
 ```
+
+<a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dersalik&layout=compact"></img>
+</a>
