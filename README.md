@@ -43,6 +43,7 @@ technical_background:
    "Designing RESTful Web APIs",
    "Become a RESTful API Developer",
    "The Complete 2022 Web Development Bootcamp",
+   "Pluralsight Epic Viewer Badge award",
    "Check my linkedin profile in order to see the rest of the certifications that I have received"
  ]
  
