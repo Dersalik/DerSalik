@@ -27,5 +27,21 @@ fields_of_interests:
     "Programming",
   ]
 
-
+technical_background:
+  [
+    "Asp.net Core Developer",
+    "Software Engineer",
+    "Intern - Asp.net Core Developer",
+    
+  ]
+  
+ Certifications & awards:
+ [
+   "ASP.NET Core 6 Web API Deep Dive",
+   "Microsoft certified AZ-900",
+   "Designing RESTful Web APIs",
+   "Become a RESTful API Developer",
+   "The Complete 2022 Web Development Bootcamp",
+   "To see my other Certifications click This <a href="https://www.linkedin.com/in/mahamad-sardar/details/certifications/">Link</a>
+ ]
 ```
