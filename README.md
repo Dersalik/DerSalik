@@ -47,8 +47,8 @@ technical_background:
    "Check my linkedin profile in order to see rest of the certifications that I have received"
  ]
  
-currently_learning: ["Asp.net core, Software development"]
-2022 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Asp.net core, Software development, Cloud computing"]
+2023 Goals: ["Create 5+ Projects, learn at least 7 new Technologies, get AZ-204."]
 hobbies: ["Gaming", "Swimming", "Traveling", "History", "Learning different languages"]
 
 
