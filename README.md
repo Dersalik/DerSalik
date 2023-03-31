@@ -17,18 +17,6 @@
 ```yaml
 Name: Mahamad Sardar
 
-About Me: "I am Mahamad Sardar Faruq, a skilled software engineer with expertise in C#, ASP.NET CORE 6, and REST APIs. I am proficient in problem-solving, data modeling, and object-oriented programming (OOP). Additionally, I have experience working with Java, SQL, and Microsoft Azure.
-
-I have completed various courses in web development and software engineering, including ASP.NET Core 6 Web API Deep Dive, Unit Testing an ASP.NET Core 6 MVC Web Application, and The Complete 2023 Web Development Bootcamp. I hold a Microsoft Certified: Azure Fundamentals certificate and have earned a Pluralsight Epic Viewer Badge.
-
-I have worked on several projects, including Salik-Bug-Tracker API, Salik-Translator, Salik-Inventory-Management-System, and Salik-School-Management-System-Web. I have experience with a range of technologies, such as EF Core, WinForms, and Azure Cognitive Services.
-
-In my most recent position as a software engineer intern at ShiȨ Software, I worked on real-world projects using Asp.net Core, C#, and EF Core. I also gained knowledge about Azure DevOps.
-
-I earned my Bachelor’s degree in Software Engineering from the University of Kurdistan Hawler. I know 5 different languages which are Kurdish, English, Russian, Arabic, and German.
-
-You can find my projects and code samples on my GitHub profile, and my professional experience and skills make me a valuable addition to any software engineering team."
-
 Location: Erbil, Kurdistan Region of Iraq
 
 fields_of_interests:
