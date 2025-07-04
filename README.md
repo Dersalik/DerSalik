@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-**Backend Developer** at **Gateway ICT Solutions**, architecting robust financial systems that serve **1+ million users**. I specialize in building scalable microservices using **Java Spring Boot** and **.NET Core**, with a proven track record in digital banking solutions and enterprise-grade applications.
+**Backend Developer** at **Gateway ICT Solutions**, building robust financial systems that serve **1+ million users**. I specialize in building scalable microservices using **Java Spring Boot** and **.NET Core**, with a proven track record in digital banking solutions and enterprise-grade applications.
 
 ```java
 public class MohammedSardar {
