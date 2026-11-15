@@ -52,7 +52,12 @@ Backend for Iraq's first licensed digital bank, serving more than a million cust
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dersalik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dersalik&theme=tokyonight" alt="GitHub contributions over the last year" />
+</p>
+
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dersalik&theme=tokyonight" alt="Top languages by commit" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Dersalik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### `POST /contact`
