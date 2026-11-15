@@ -48,18 +48,13 @@ Backend for Iraq's first licensed digital bank, serving more than a million cust
 ### `GET /activity`
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
-    <img alt="Most used languages on GitHub" src="profile/top-langs-light.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/streak-dark.svg">
-    <img alt="GitHub contribution streak" src="profile/streak-light.svg">
-  </picture>
+  <a href="https://wakatime.com/@22701386-2c06-452f-9e30-df96ef2e96d4"><img src="https://wakatime.com/badge/user/22701386-2c06-452f-9e30-df96ef2e96d4.svg" alt="Total time coded since Jun 17 2023" /></a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dersalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dersalik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ### `POST /contact`
 
