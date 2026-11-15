@@ -1,0 +1,28 @@
+# Writes last week's WakaTime coding stats between the
+# <!--START_SECTION:waka--> and <!--END_SECTION:waka--> markers in README.md.
+# Needs a repository secret WAKATIME_API_KEY holding a WakaTime OAuth token
+# (from https://wakatime.com/oauth); plugin API keys are write-only and won't work.
+name: Update WakaTime stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # half an hour after the cards workflow, so their pushes don't collide
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  waka:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TOTAL: true
+          CODE_LANG: txt
+          BLOCKS: ░█
+          COMMIT_MESSAGE: Update WakaTime stats

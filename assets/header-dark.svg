@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Sardar Farooq, Senior Software Engineer</title>
+  <desc id="desc">Backend for digital banking with Java, Spring Boot, .NET and Azure. Erbil, Iraq.</desc>
+  <style>
+    .sans { font-family: 'Space Grotesk', 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .body { font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+  <rect width="1200" height="330" rx="20" fill="#0E1726"/>
+
+  <!-- faint API response, right side -->
+  <g class="mono" font-size="15" fill="#2A3A57">
+    <text x="850" y="78">{</text>
+    <text x="868" y="108">"role": "Senior Software Engineer",</text>
+    <text x="868" y="138">"domain": "digital banking",</text>
+    <text x="868" y="168">"customers": "1M+",</text>
+    <text x="868" y="198">"stack": ["Java", "Spring Boot",</text>
+    <text x="958" y="228">"PostgreSQL", ".NET"],</text>
+    <text x="868" y="258">"certified": ["AZ-204", "AI-102"]</text>
+    <text x="850" y="288">}</text>
+  </g>
+
+  <!-- monogram + request line -->
+  <rect x="56" y="48" width="48" height="48" rx="10" fill="#FFFFFF"/>
+  <text x="80" y="78" class="mono" font-size="16" font-weight="500" fill="#0E1726" text-anchor="middle">MSF</text>
+  <text x="124" y="78" class="mono" font-size="17" fill="#9DB8FF"><tspan fill="#7FD1A4">GET</tspan> /engineer/msf · <tspan fill="#7FD1A4">200 OK</tspan></text>
+
+  <!-- name + role -->
+  <text x="56" y="178" class="sans" font-size="54" font-weight="600" fill="#FFFFFF" letter-spacing="-1.2">Mohammed Sardar Farooq</text>
+  <text x="56" y="224" class="body" font-size="26" font-weight="500" fill="#DCE3EE">Senior Software Engineer</text>
+  <text x="56" y="266" class="body" font-size="19" fill="#B9C4D6">Backend for digital banking · Java &amp; Spring Boot · .NET · Azure</text>
+</svg>
