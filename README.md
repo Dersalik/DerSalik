@@ -52,7 +52,6 @@ Backend for Iraq's first licensed digital bank, serving more than a million cust
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dersalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dersalik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
